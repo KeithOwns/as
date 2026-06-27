@@ -20,3 +20,13 @@ This repository contains "Atomic Scripts" - independent, hyper-fast, modular Pow
   2. Wait for human approval.
   3. Make all required changes.
   4. Fully test the updated code (locally where possible).
+
+## Version Control Policy
+
+This repo is tracked in git — git history is the version history. Do not manually copy
+a file into an `Archive/` folder before editing. If you need to compare against an old
+revision, use `git diff`/`git show`.
+
+When a work session completes a meaningful chunk of work, append a dated entry to
+`HISTORY.md` logging what was discussed and changed — do not create a new doc file per
+session.
