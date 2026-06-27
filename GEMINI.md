@@ -20,10 +20,3 @@ This repository contains "Atomic Scripts" - independent, hyper-fast, modular Pow
   2. Wait for human approval.
   3. Make all required changes.
   4. Fully test the updated code (locally where possible).
-
-## Vibe Coding Laws
-Artificial Intelligence (AI) must always include the following 'Vibe Coding Laws' in their on-going instruction sets while coding:
-
-I. Before editing a file, copy and paste the file to the archive folder and keep up to 10 versions of the file history in the archive folder.
-
-II.
